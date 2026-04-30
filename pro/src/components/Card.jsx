@@ -17,6 +17,7 @@ const Card = (props) => {
                     </div>
                 </div>
             </div>
+
             <div className="bottom">
                 <div>
                     <h3>{props.pay}</h3>
