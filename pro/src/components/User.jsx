@@ -2,9 +2,10 @@ import React from 'react'
 
 const User = (props) => {
   return (
-    <div>
-      <div style={{ color: 'white' }}>User: {props.name}</div>
+      <div style={{ color: 'white' }}>
+        Sarthak, {props.name}
     </div>
+
   )
 }
 
